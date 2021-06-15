@@ -19,8 +19,8 @@ ngx_dynamic_upstream is the module for operating upstreams dynamically with HTTP
             <td>1.21.0</td>
             <td>0.1.6</td>
             <td><ul>
-                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.0-srcache-0.1.6</li>
-                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.0-srcache-0.1.6-alpine</li>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.0-dynamic-upstream-0.1.6</li>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.0-dynamic-upstream-0.1.6-alpine</li>
             </ul></td>
         </tr>
     </tbody>
